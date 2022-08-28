@@ -14,4 +14,4 @@
 <a href="https://www.linkedin.com/in/farhan-hyderabadwale/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="45px" width="45px" /></a>
 
 ![Farhan's github stats](https://github-readme-stats.vercel.app/api?username=Farhan-hyd&theme=dark&show_icons=true&hide_border=true)
-[![kp's github activity graph](https://activity-graph.herokuapp.com/graph?username=Farhan-hyd&theme=react-dark)](https://github.com/kaliappan01/github-readme-activity-graph)
+[![Farhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Farhan-hyd&theme=react-dark)](https://github.com/Farhan-hyd/github-readme-activity-graph)
