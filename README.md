@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Open source contribution.
 - 💬 Ask me about Java, Bash, Android develpment.
 - 📫 How to reach me:   
-<a href="https://www.codechef.com/users/mfarhanhyd5" target="_blank"><img src="https://cp-logo.vercel.app/codechef/mfarhanhyd5" height="45px" width="45px" /></a>
+<a href="https://www.codechef.com/users/mfarhanhyd5" target="_blank"><img src="[![Badge](https://cp-logo.vercel.app/codechef)]" height="45px" width="45px" /></a>
 <a href="https://www.hackerrank.com/mfarhanhyd5?" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="45px" width="45px" /></a>
 <a href="https://www.linkedin.com/in/farhan-hyderabadwale/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="45px" width="45px" /></a>
 
