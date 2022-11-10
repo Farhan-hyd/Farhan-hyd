@@ -15,4 +15,4 @@
 
 ![Farhan's Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Farhan-hyd&layout=compact&theme=buefy&hide=CSS,Dockerfile)
 ![Farhan's github stats](https://github-readme-stats.vercel.app/api?username=Farhan-hyd&show_icons=true&theme=buefy&hide_border=true)
-<!-- [![Farhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Farhan-hyd&theme=react-dark)](https://github.com/Farhan-hyd/github-readme-activity-graph) -->
+[![Farhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Farhan-hyd&theme=lucent)](https://github.com/Farhan-hyd/github-readme-activity-graph)
